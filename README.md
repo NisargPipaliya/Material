@@ -17,8 +17,9 @@
 
 [UseFull AI Website](https://github.com/NisargPipaliya/Useful-AI-WEBSITE-LIST)</li><li>
 
-[MLOps Lab](https://github.com/NisargPipaliya/MLOps-Lab)
-</li></ul></h3>
+[MLOps Lab](https://github.com/NisargPipaliya/MLOps-Lab)</li><li>
+
+[My ML Journey: The Roadmap that i followed](https://github.com/NisargPipaliya/Material/blob/main/Myml_journey.md)</li></ul></h3>
 
 ---
 
