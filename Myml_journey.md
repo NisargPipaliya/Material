@@ -16,7 +16,7 @@
 
 <br>
 
-    Then in sem 4 i started with ML maths with JOSH STARMER, i was good.
+    Then in sem 4 i started with ML maths with JOSH STARMER, it was good.
     He wonderfully taught maths required to understand ML algorithms.
     
 So what i did was:
