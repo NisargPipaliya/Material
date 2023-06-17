@@ -9,13 +9,13 @@
 [Shree Krishna](https://youtu.be/DK9wOCrdSuk)
 </ul>
 
-
+---
 
     At First i started with Krish Niaks ML crash course,
     But is was bit High Level So, Dropped it, as it was a bit advance 😅😅
 
 <br>
-    
+
     Then in sem 4 i started with ML maths with JOSH STARMER, i was good.
     He wonderfully taught maths required to understand ML algorithms.
     
@@ -25,7 +25,7 @@ So what i did was:
 <li> Then i implement that algorithm in python, some with sklearn and some with from scratch implementation</li>
 </ul>
 
-
+---
 
 <h3>
 
@@ -54,7 +54,9 @@ Link to Playlist [Maths for ML](https://youtube.com/playlist?list=PLblh5JKOoLUIC
     but before starting with what it actually is i just looked for an overview at 3Blue 1 Brown Youtube Channel.
     it was good, like it make you visualize what this thing is all about.
 
-    https://www.datacamp.com/
+<h3><b>
+
+[DataCamp](https://www.datacamp.com/)</b></h3>
 
 
 <h3>
@@ -64,6 +66,7 @@ Link to Playlist [Maths for ML](https://youtube.com/playlist?list=PLblh5JKOoLUIC
 
 </h3>
 
+---
 
 
 <h2> Some Useful Resource Link That i Found </h2>
@@ -147,33 +150,13 @@ Link to Playlist [Maths for ML](https://youtube.com/playlist?list=PLblh5JKOoLUIC
 [Test Your Skills](https://workera.ai/)
 </td>
 <td>
-(After ML Algorithms, to know how actually a system is made)
-(for quick revision)
-
-[System Design @Sudo Code](https://youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a)
-</td>
-
-<td>
-(For Detailed study)
-
-[System Design @Engineering Digest](https://youtube.com/playlist?list=PLA3GkZPtsafZdyC5iucNM_uhqGJ5yFNUM)
-</td>
-</tr>
-
-<tr>
-<td>
 
 [Python Cheat Sheets](https://www.pythoncheatsheet.org/)
-</td>
-
-<td>
-
-[System design](https://youtu.be/0LTXCcVRQi0)
 </td>
 </tr>
 </table>
 
-
+---
 <h1> After Completion Of ML algorithms </h1>
 
 <h3>
@@ -252,6 +235,7 @@ Link to it [3 Blue 1 Brown](https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZ
 </tr>
 </table>
 
+---
 <br>
 <h2><i> Got a End-To-End ML Pipeline Deployment Task </i> </h2>
 Link to what i was reading and watching for it:

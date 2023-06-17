@@ -1,7 +1,8 @@
 # Navigation
+<h3><pre> 
 
-
-
+      Any Kind Of Resource Contributions are Welcomed 
+</pre></h3>
 <h3>Python: <ul><li>
 
 [Learn Python](https://github.com/NisargPipaliya/learn-python)</li><li>
@@ -56,7 +57,13 @@
 
 <h3>System Design: <ul><li>
 
-[Grokking System Design](https://github.com/NisargPipaliya/Grokking-System-Design)</li></ul></h3>
+[Grokking System Design](https://github.com/NisargPipaliya/Grokking-System-Design)</li><li>
+
+[System design](https://youtu.be/0LTXCcVRQi0)</li><li>
+
+(For Detailed study)[System Design @Engineering Digest](https://youtube.com/playlist?list=PLA3GkZPtsafZdyC5iucNM_uhqGJ5yFNUM)</li><li>
+
+(For quick revision)[System Design @Sudo Code](https://youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a)</li></ul></h3>
 
 ---
 <h3>DevOps Material:<ul><li>
