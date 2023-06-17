@@ -1,8 +1,5 @@
 # Navigation
-<h3><pre> 
-
-      Any Kind Of Resource Contributions are Welcomed 
-</pre></h3>
+<h3><pre> Any Kind Of Resource Contributions are Welcomed </pre></h3>
 <h3>Python: <ul><li>
 
 [Learn Python](https://github.com/NisargPipaliya/learn-python)</li><li>
