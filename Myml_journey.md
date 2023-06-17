@@ -153,6 +153,9 @@ Link to Playlist [Maths for ML](https://youtube.com/playlist?list=PLblh5JKOoLUIC
 
 [Python Cheat Sheets](https://www.pythoncheatsheet.org/)
 </td>
+<td>
+[ML Book](https://lazyprogrammer.me/mlcompendium/intro.html)
+</td>
 </tr>
 </table>
 
