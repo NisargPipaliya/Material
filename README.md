@@ -40,7 +40,10 @@
   
   [Leetcode](https://github.com/NisargPipaliya/leetcode)</li><li>
 
-  [8086_assembly_language](https://github.com/NisargPipaliya/8086_asm)</li></ul></h3>
+  [8086_assembly_language](https://github.com/NisargPipaliya/8086_asm)</li><li>
+  
+  [CP](https://github.com/om-ashish-soni/Competitive-Programming)
+  </li></ul></h3>
 
 ---
 
