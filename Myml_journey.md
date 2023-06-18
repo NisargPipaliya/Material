@@ -236,6 +236,10 @@ Link to it [3 Blue 1 Brown](https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZ
 
 [Code Basics DL with tensor flow keras and python](https://youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
 </td>
+<td>
+
+[NLPcs124](https://www.youtube.com/watch?v=808M7q8QX0E&list=PLaZQkZp6WhWyvdiP49JG-rjyTPck_hvEu)
+</td>
 </tr>
 </table>
 
