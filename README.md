@@ -41,7 +41,11 @@
 
   [8086_assembly_language](https://github.com/NisargPipaliya/8086_asm)</li><li>
   
-  [CP](https://github.com/om-ashish-soni/Competitive-Programming)
+  [CP](https://github.com/om-ashish-soni/Competitive-Programming)</li><li>
+
+  [Data Structures](https://www.youtube.com/@codencode)</li><li>
+  
+  [Algorithms](https://www.youtube.com/@TheAdityaVerma)
   </li></ul></h3>
 
 ---
