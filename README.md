@@ -53,7 +53,9 @@
 <h3>OpenSource :<ul><li>
   
 [Gssoc Contribution: MindWave](https://github.com/NisargPipaliya/GSSOC_MindWave)</li>
-<li></li></ul></h3>
+<li>
+  
+[OpenSource Programs](https://github.com/NisargPipaliya/Material/blob/main/opensource.md)</li></ul></h3>
 
 
 ---
