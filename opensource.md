@@ -1,0 +1,55 @@
+# List Of Open Source Programs.
+
+- <b>Reinforcement Learning Open Source -> microsoft program</b>
+
+    - Time : May to August
+    - [Link](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/timeline/)
+
+- <b>LFX Mentorship</b>
+    - Time : 3 times a year spring, summer, and Fall.
+    - [Link](https://lfx.linuxfoundation.org/tools/mentorship/)
+    - [Github](https://github.com/cncf/mentoring/tree/main)
+- <b>MLH Fellowship</b>
+    - Time 3 times a year spring, summer, and fall.
+    - [Link](https://fellowship.mlh.io/)
+- <b>Google Summer Of Code</b>
+    - Time: Start Contributing from november, application will be open in feb or march
+    - [Link](https://summerofcode.withgoogle.com/)
+- <b>LFN Mentorship</b>
+    - Time: Process Starts from Jan, For more details go to below mentioned link
+    - [Link](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program)
+- <b >GNOME Outreachy</b>
+    - Time: Summer, May to August
+    - [Link](https://wiki.gnome.org/Outreach)
+- <b>Google Season of Docs: For technical Writers</b>
+    - [Link](https://developers.google.com/season-of-docs)
+- <b>Xorg Foundation</b>
+    - [Link](https://www.x.org/wiki/XorgEVoC/)
+- <b>Julia</b>
+    - [Link](https://julialang.org/)
+- <b>Summer of Haskell</b>
+    - [Link](https://summer.haskell.org/)
+- <b>Open Main Frame project</b>
+    - [Link](https://www.openmainframeproject.org/all-projects/mentorship-program)
+- <b>24 Pull Request</b>
+    - [Link](https://24pullrequests.com/about)
+- <b>Osoc(outside India only)</b>
+    - [Link](https://osoc.be/)
+- <b>Hyperledger Foundation (For Blockchain)</b>
+    - [Link](https://wiki.hyperledger.org/display/INTERN/Hyperledger+Mentorship+Program)
+- <b>Season of KDE</b>
+    - [Link](https://season.kde.org/)
+- <b>FSF</b>
+    - [Link](https://www.fsf.org/volunteer/internships)
+- <b>Processing Foundation</b>
+    - [Link](https://processingfoundation.org/fellowships/)
+- <b>Hacktober Fest (Preparation Required)</b>
+    - For Preparation You have "Preptember", a month dedicated for preparation
+    - [Link](https://hacktoberfest.com/)
+- <b>CodeHeat by foss asia</b>
+    - [Link](https://codeheat.org/)
+    - [Internship Form Link](https://docs.google.com/forms/d/e/1FAIpQLScp8h5SIPVK5G2SAm5vtrv7KLKeOeYTxlZBkDRE6I7Toybt0A/viewform)
+- <b>Driven Data Competitions</b>
+    - [Link](https://www.drivendata.org/competitions/)
+- <b>Kubernetes Release Team Shadow</b>
+    - [Link](https://github.com/kubernetes/sig-release/blob/master/release-team/shadows.md)
