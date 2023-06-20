@@ -50,9 +50,10 @@
 
 ---
 
-<h3>GSSOC Contribution:<ul><li>
+<h3>OpenSource :<ul><li>
   
-[MindWave](https://github.com/NisargPipaliya/GSSOC_MindWave)</li></ul></h3>
+[Gssoc Contribution: MindWave](https://github.com/NisargPipaliya/GSSOC_MindWave)</li>
+<li></li></ul></h3>
 
 
 ---
