@@ -73,7 +73,9 @@
 ---
 <h3>DevOps Material:<ul><li>
 
-[In28MIN](https://github.com/NisargPipaliya/devops-master-class)</li></ul></h3>
+[In28MIN](https://github.com/NisargPipaliya/devops-master-class)</li><li>
+
+[Docker notes linkedin](https://drive.google.com/drive/folders/1sflPL9u70e3GNW3Ndir7IrtgJvDHX1K_)</li></ul></h3>
 
 ---
 
@@ -81,3 +83,11 @@
   
   [Blockachain Notes](https://github.com/NisargPipaliya/Blockchain-Notes)
 </li></ul></h3>
+
+<h3>Good LinkedIn Posts: 
+
+<table>
+  <tr>
+    <td>
+      
+[ALL in one resource post](https://www.linkedin.com/posts/parassaini_jobs-india-marketing-activity-7055431507628163072-a1fr?utm_source=share&utm_medium=member_desktop)</td></tr></table></h3>
