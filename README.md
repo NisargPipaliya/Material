@@ -21,6 +21,8 @@
 
 [My ML Journey: The Roadmap that i followed](https://github.com/NisargPipaliya/Material/blob/main/Myml_journey.md)</li></ul></h3>
 
+[Machine Learning - Notion Notebook]([https://github.com/NisargPipaliya/ML-For-Beginners](https://machine-learning-notes.notion.site/Machine-Learning-723dc503de0e40ba949420b7907bff3a?pvs=4))</li><li>
+
 ---
 
 
