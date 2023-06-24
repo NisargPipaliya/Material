@@ -29,18 +29,20 @@ So what i did was:
 
 <h3>
 
-[ML RoadMap](https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva)
-
+- [ML RoadMap](https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva)
+- [Full Stack Datascientist RoadMap](https://medium.com/@hemansnation/god-level-data-science-machine-learning-full-stack-roadmap-2023-ed3c414597d0)
+- [ML articles](https://medium.com/deem-blogs/how-i-would-learn-machine-learning-again-dd39c2959e64)
+- [ML Glossary](https://developers.google.com/machine-learning/glossary)
 </h3>
 
 <h3>
 My Learning Partners:
 
-[Bard](https://bard.google.com/)
-[ChatGpt](https://chat.openai.com/)
-[ChatPDF](https://www.chatpdf.com/)
-[Daniel Bourke's Github](https://github.com/mrdbourke/machine-learning-roadmap)
-[DataCamp](https://www.datacamp.com/)😍:  An amazing platform, it's super amazing, unlike Udemy with video lectures you get handson exercise during the course, Guided and Unguided Project.
+- [Bard](https://bard.google.com/)
+- [ChatGpt](https://chat.openai.com/)
+- [ChatPDF](https://www.chatpdf.com/)
+- [Daniel Bourke's Github](https://github.com/mrdbourke/machine-learning-roadmap)
+- [DataCamp](https://www.datacamp.com/)😍:  An amazing platform, it's super amazing, unlike Udemy with video lectures you get handson exercise during the course, Guided and Unguided Project.
 But it is paid 😑...
 Wait We can get it's Free 3 months Premium Access using Github student's developer pack
 </h3>
@@ -57,203 +59,97 @@ Link to Playlist [Maths for ML](https://youtube.com/playlist?list=PLblh5JKOoLUIC
 <h3><b>
 
 [DataCamp](https://www.datacamp.com/)</b></h3>
+<h3><i><b>
 
-
-<h3>
-
-<i><b>[Made With ML](https://madewithml.com/): Learn About ML and related things, it provide you with resources
-</b></i>
-
-</h3>
+[Made With ML](https://madewithml.com/): Learn About ML and related things, it provide you with resources</b></i></h3>
 
 ---
 
 
 <h2> Some Useful Resource Link That i Found </h2>
 
-<table>
-    <tr>
-    <td>
+<table><tr><td>
 
-[Neural Network Resource Github](http://colah.github.io/)
-
-</td>
-
-<td> 
+[Neural Network Resource Github](http://colah.github.io/)</td><td> 
     
-[NLP Papers](https://index.quantumstat.com/)
-</td>
+[NLP Papers](https://index.quantumstat.com/)</td><td>
 
-<td>
+[Andrew NG](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)</td><td>
 
-[Andrew NG](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+[Andrew NG Standford](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)</td><td>
 
-</td>
+[IIT ML](https://www.youtube.com/playlist?list=PLZ2ps__7DhBbim4oKfdSdOpLyUwNd8UQL)</td></tr><tr><td>
 
-<td>
+[NN Notes](http://neuralnetworksanddeeplearning.com/)</td><td>
 
-[Andrew NG Standford](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+[Code Samples for DL and Neural Nets](https://github.com/mnielsen/neural-networks-and-deep-learning)</td><td>
 
-</td>
+[Code Basics Datascience course](https://youtube.com/playlist?list=PLeo1K3hjS3us_ELKYSj_Fth2tIEkdKXvV)</td><td>
 
-<td>
+[5 min Engineering ML course](https://www.youtube.com/playlist?list=PLYwpaL_SFmcBhOEPwf5cFwqo5B-cP9G4P)</td><td>
 
-[IIT ML](https://www.youtube.com/playlist?list=PLZ2ps__7DhBbim4oKfdSdOpLyUwNd8UQL)
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-[NN Notes](http://neuralnetworksanddeeplearning.com/)
-
-</td>
-
-<td>
-
-[Code Samples for DL and Neural Nets](https://github.com/mnielsen/neural-networks-and-deep-learning)
-
-</td>
-<td>
-
-[Code Basics Datascience course](https://youtube.com/playlist?list=PLeo1K3hjS3us_ELKYSj_Fth2tIEkdKXvV)
-
-</td>
-<td>
-
-[5 min Engineering ML course](https://www.youtube.com/playlist?list=PLYwpaL_SFmcBhOEPwf5cFwqo5B-cP9G4P)
-
-</td>
-<td>
-
-[Andrew NG's Course](https://youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
-
-</td>
-</tr>
-
-<tr>
-<td>
+[Andrew NG's Course](https://youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)</td></tr><tr><td>
 
 [3Blue 1Brown](https://www.3blue1brown.com/#lessons)
-(Maths & Neural Nets)
-</td>
-
-<td>
+(Maths & Neural Nets)</td><td>
 
 [MNIST DB for Handwritten Digits](http://yann.lecun.com/exdb/mnist/)
-(useful for Neural Nets)
-</td>
+(useful for Neural Nets)</td><td>
 
-<td>
+[Test Your Skills](https://workera.ai/)</td><td>
 
-[Test Your Skills](https://workera.ai/)
-</td>
-<td>
-
-[Python Cheat Sheets](https://www.pythoncheatsheet.org/)
-</td>
-<td>
+[Python Cheat Sheets](https://www.pythoncheatsheet.org/)</td><td>
     
-[ML Book](https://lazyprogrammer.me/mlcompendium/intro.html)
-</td>
-</tr>
-</table>
+[ML Book](https://lazyprogrammer.me/mlcompendium/intro.html)</td></tr></table>
 
 ---
-<h1> After Completion Of ML algorithms </h1>
+<h1> After Completion Of ML algorithms </h1><h3>
 
-<h3>
+Link to it [3 Blue 1 Brown](https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=2)</h3><h3>
 
+[Deep Reinforcement Learning Nick](https://www.youtube.com/watch?v=cO5g5qLrLSo&list=PLgNJO2hghbmjlE6cuKMws2ejC54BTAaWV)</h3><h3>
 
-Link to it [3 Blue 1 Brown](https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=2)
+[Google Deep Mind](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)</h3> 
 
-</h3>
+<table><tr><td>
 
-<h3>
+[NLP Code Basics](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX)</td><td>
 
-[Deep Reinforcement Learning Nick](https://www.youtube.com/watch?v=cO5g5qLrLSo&list=PLgNJO2hghbmjlE6cuKMws2ejC54BTAaWV)
+[Speech and NLP Book](https://web.stanford.edu/~jurafsky/slp3/)</td><td>
 
-</h3>
+[NLP Krish Naik](https://youtube.com/playlist?list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm)</td><td>
 
-<h3>
+[100 days of ML](https://youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH)</td><td>
 
-[Google Deep Mind](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+[100 days of DL](https://youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)</td><td>
 
-</h3> 
+[CampusX NLP](https://youtube.com/playlist?list=PLKnIA16_RmvZo7fp5kkIth6nRTeQQsjfX)</td></tr><tr><td>
 
-<table>
-<tr>
-<td>
+[Legend of NN Andrej Karpathy](https://karpathy.ai/)</td><td>
 
-[NLP Code Basics](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX)
-</td>
-<td>
+[Karpathy Blogs](http://karpathy.github.io/)</td><td>
 
-[Speech and NLP Book](https://web.stanford.edu/~jurafsky/slp3/)
-</td>
-<td>
+[Krish Naik DL playlist](https://youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)</td><td>
 
-[NLP Krish Naik](https://youtube.com/playlist?list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm)
-</td>
+[Krish Naik DL Crash Course](https://www.youtube.com/playlist?list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns)</td><td>
 
-<td>
+[Code Basics DL with tensor flow keras and python](https://youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)</td><td>
 
-[100 days of ML](https://youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH)
-</td>
-<td>
+[NLPcs124](https://www.youtube.com/watch?v=808M7q8QX0E&list=PLaZQkZp6WhWyvdiP49JG-rjyTPck_hvEu)</td></tr><tr><td>
+        
+[How to keep up with AI/ML as beginner](https://medium.com/deem-blogs/how-to-keep-up-with-ai-ml-in-2023-as-a-beginner-11dffbbe9781)</td><td>
 
-[100 days of DL](https://youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)
-</td>
+[3 DL Projects](https://towardsdatascience.com/3-data-science-projects-using-keras-that-you-can-complete-today-c45d4948b2f)</td><td>
 
-<td>
-
-[CampusX NLP](https://youtube.com/playlist?list=PLKnIA16_RmvZo7fp5kkIth6nRTeQQsjfX)
-</td>
-</tr>
-
-<tr>
-<td>
-
-[Legend of NN Andrej Karpathy](https://karpathy.ai/)
-</td>
-<td>
-
-[Karpathy Blogs](http://karpathy.github.io/)
-</td>
-
-<td>
-
-[Krish Naik DL playlist](https://youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
-</td>
-
-<td>
-
-[Krish Naik DL Crash Course](https://www.youtube.com/playlist?list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns)
-</td>
-
-<td>
-
-[Code Basics DL with tensor flow keras and python](https://youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
-</td>
-<td>
-
-[NLPcs124](https://www.youtube.com/watch?v=808M7q8QX0E&list=PLaZQkZp6WhWyvdiP49JG-rjyTPck_hvEu)
-</td>
-</tr>
-</table>
+[Develop and Deploy Model](https://medium.com/deem-blogs/develop-deploy-a-machine-learning-model-with-fastapi-docker-and-react-js-6b728e1f260a)
+</td></tr></table>
 
 ---
 <br>
 <h2><i> Got a End-To-End ML Pipeline Deployment Task </i> </h2>
 Link to what i was reading and watching for it:
 
-<table>
-<tr>
-
-<td>
-<ul>
-<li> 
+<table><tr><td><ul><li> 
 MLOPS
 
 [What is devops](https://www.donovanbrown.com/post/what-is-devops)
@@ -270,15 +166,9 @@ MLOPS
 [Microsoft Modules 5](https://learn.microsoft.com/en-us/training/modules/continuous-deployment-for-machine-learning/5-summary)
 
 [Microsoft Modules](https://learn.microsoft.com/en-us/training/browse/?expanded=azure&products=azure-machine-learning&skip=30)
-[Azure Devops](https://learn.microsoft.com/en-us/azure/devops/pipelines/agents/v2-windows?view=azure-devops)
+[Azure Devops](https://learn.microsoft.com/en-us/azure/devops/pipelines/agents/v2-windows?view=azure-devops)</li></ul></td>
 
-</li>
-</ul>
-</td>
-
-<td>
-<ul>
-<li> 
+<td><ul><li> 
 Good articles
 
 [Azure Devops For Data Science Project](https://towardsdatascience.com/ci-cd-pipeline-with-azure-devops-for-data-science-project-f263586c266e)
@@ -287,8 +177,4 @@ Good articles
 [Azuredevops Youtube](https://www.youtube.com/watch?v=xbgMqCuWgzs)
 [MLOps AWS](https://www.youtube.com/playlist?list=PLZoTAELRMXVONh5mHrXowH6-dgyWoC_Ew)
 
-[Twitter sentiments analysis](https://www.youtube.com/playlist?list=PLGZpjgRdXegkkLJO5fV1UVo2B1neho94Z)
-
-</li>
-</ul>
-</table>
+[Twitter sentiments analysis](https://www.youtube.com/playlist?list=PLGZpjgRdXegkkLJO5fV1UVo2B1neho94Z)</li></ul></table>
