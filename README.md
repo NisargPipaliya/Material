@@ -81,6 +81,20 @@
 
 ---
 
+<h3>CP Related Topics
+
+- [Partial sum and modular arithmetic](https://www.youtube.com/@csalgo5671/playlists)
+- [Recursion](https://www.youtube.com/watch?v=kHi1DUhp9kM&list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY&pp=iAQB)
+- [Heap Usage](https://www.youtube.com/watch?v=hW8PrQrvMNc&list=PL_z_8CaSLPWdtY9W22VjnPxG30CXNZpI9&pp=iAQB)
+- [Stack Usage](https://www.youtube.com/watch?v=P1bAPZg5uaE&list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd&pp=iAQB)
+- [Binary Search Problems](https://www.youtube.com/watch?v=j7NodO9HIbk&list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2&pp=iAQB)
+- [Graphs Part 1](https://www.youtube.com/watch?v=s7zE4Nmc2Fg&list=PL5DyztRVgtRVLwNWS7Rpp4qzVVHJalt22)
+- [Graph Part 2](https://www.youtube.com/watch?v=eaD68J3NNdE&list=PL5DyztRVgtRW0Kdd8i1xML7t-ge56XRQR)
+- [Sliding window](https://www.youtube.com/watch?v=EHCGAZBbB88&list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj&pp=iAQB)
+- [Dynamic Programming](https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&pp=iAQB)
+- [Advance DataStructures](https://www.youtube.com/watch?v=8h80p_rYv1Y&list=PLv9sD0fPjvSHqIOLTIvHJWjkdH0IdzmXT)</h3>
+
+---
 <h3>Blockchain:<ul><li>
   
   [Blockachain Notes](https://github.com/NisargPipaliya/Blockchain-Notes)
