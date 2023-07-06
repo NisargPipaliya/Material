@@ -95,6 +95,12 @@
 - [Advance DataStructures](https://www.youtube.com/watch?v=8h80p_rYv1Y&list=PLv9sD0fPjvSHqIOLTIvHJWjkdH0IdzmXT)</h3>
 
 ---
+<h3>Advance Java
+  
+- [JDBC](https://www.youtube.com/watch?v=6EF8XPJp-No&list=PL0zysOflRCenjuvOwumYLG9TCsEQZrV2M)
+- [JSP and Servlets](https://www.youtube.com/watch?v=7EU-FsorTBw&list=PLnfapp4WoqprnkAIeAyufzgaBuIlOM5AB)</h3>
+
+---
 <h3>Blockchain:<ul><li>
   
   [Blockachain Notes](https://github.com/NisargPipaliya/Blockchain-Notes)
