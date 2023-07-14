@@ -54,10 +54,15 @@
 
 <h3>OpenSource :<ul><li>
   
-[Gssoc Contribution: MindWave](https://github.com/NisargPipaliya/GSSOC_MindWave)</li>
-<li>
+[Gssoc Contribution: MindWave](https://github.com/NisargPipaliya/GSSOC_MindWave)</li><li>
   
-[OpenSource Programs](https://github.com/NisargPipaliya/Material/blob/main/opensource.md)</li></ul></h3>
+[OpenSource Programs](https://github.com/NisargPipaliya/Material/blob/main/opensource.md)</li><li>
+
+[EddieHub](https://github.com/EddieHubCommunity)</li><li>
+
+[Design and code](https://github.com/Design-and-Code)</li><li>
+
+[Github CraftWork](https://github.com/github-craftwork)</li></ul></h3>
 
 
 ---
