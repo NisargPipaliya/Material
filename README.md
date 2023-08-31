@@ -103,7 +103,7 @@
 <h3>Advance Java
   
 - [JDBC](https://www.youtube.com/watch?v=6EF8XPJp-No&list=PL0zysOflRCenjuvOwumYLG9TCsEQZrV2M)
-- [JSP and Servlets](https://www.youtube.com/watch?v=7EU-FsorTBw&list=PLnfapp4WoqprnkAIeAyufzgaBuIlOM5AB)
+- [JSP and Servlets](https://youtube.com/playlist?list=PLGTrAf5-F1YIX68uT78FFtA3R3zajVFJz&si=Yznx-IfnUFSBwZYY)
 - [Design Pattern Java](https://youtube.com/playlist?list=PLzS3AYzXBoj8t5hPykr5VU7jG-kEim-LX)
 - [Collection Framework](https://www.youtube.com/watch?v=Od-4hMfBkMI&list=PLlhM4lkb2sEiOcuH1g-CUuU288qmMNpyj)</h3>
 
