@@ -113,6 +113,13 @@
 
 ---
 
+<h3> Operating Systems:<ul><li>
+
+  [OS YT Channel](https://youtube.com/playlist?list=PL1XjRDnU2tOipNUtu22aHUGC4SADqHrYF&si=v_Y3x3NfKqQ2VStH)
+</li></ul></h3>
+
+---
+
 <h3>Blockchain ⛓️🔒:<ul><li>
   
   [Blockchain Notes](https://github.com/NisargPipaliya/Blockchain-Notes) 📝</li></ul></h3>
